@@ -9,13 +9,6 @@ weight = 80
 ## Meet the Chicago Executive Board!  
   
 
-### Angela Li  
-<img src="/img/exec/Angela.jpg" align="left" style="margin: 5px 10px" alt="">  
-  
-**Angela Li** is the R Spatial Advocate for the Center for Spatial Data Science at the University of Chicago, where she teaches R to the UChicago community! She is the founder of R-Ladies Chicago, having founded our chapter in July 2017. She received her Bachelor's Degree from UChicago in June 2018. Angela loves using R to make maps!    
-      
-   
-  
   
   
   
@@ -25,7 +18,7 @@ weight = 80
 **Kristi Angel** is a Data Scientist on the experimentation platform team at [Groupon](https://www.builtinchicago.org/2017/08/29/spotlight-working-at-groupon). She has a meandering background that includes a brief stint in the Army and more than a decade in the food and beverage industry! Kristi earned her B.S. in Physics from the University of Washington and her M.S. in Statistics at Loyola University Chicago. She enjoys mentoring developing data scientists and members of marginalized groups navigating career pivots. Beyond utilizing R as a means to make sense from data, she feels connected to the R community's commitment to inclusion and diversity, and the opinionated application of programming best practices in the statistical and data sciences.  
   
    
-  
+
   
   
   
@@ -55,17 +48,9 @@ weight = 80
 **Sushmita Gopalan** is a data scientist at the Northwestern Neighbourhood and Network Initiative at Northwestern University. She uses network and spatial analysis to understand the ways in which social ties, space and their intersection influence behaviour. She has a B.A./M.A. in Economics from the Indian Institute of Technology Madras and an M.A. in Computational Social Science from the University of Chicago. Sushmita uses R to wrangle data and make pretty maps and graphs.  
    
    
-  
-  
-  
 
-### Katherine Simeon  
-<img src="/img/exec/Katherine.jpg" align="left" style="margin: 5px 10px" alt="">  
-  
-**Katherine Simeon** is a PhD Candidate in Communication Sciences & Disorders at Northwestern University. Her research looks at how experience with sound (or lack thereof) impacts language processing in children and individuals with hearing loss, specifically cochlear implant users. Katherine uses R for data cleaning, statistical analyses, & data visualization. In her free time, she enjoys knitting (both literally and with knitr) and running.  
    
    
-  
   
   
 ### Abby Smith  
